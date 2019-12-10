@@ -2,6 +2,6 @@ require 'pry'
 class StaticController < ApplicationController
     def about
         #binding.pry
-        render "some_page"
+        #render "some_page"
     end
 end
